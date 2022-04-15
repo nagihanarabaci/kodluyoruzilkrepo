@@ -15,7 +15,7 @@ Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bi
 - Repoyu bilgisayarımıza aldıktan sonra içine >README.md adında bir Markdown dosya oluşturun.
 - Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
 
-![]()
+![](https://github.com/NagihanArabaci/kodluyoruzilkrepo/blob/main/figures/ornekreadme.png)
 
 **Detaylı bakmak için [Örnek Readme Dosyasını](https://github.com/NagihanArabaci/kodluyoruzilkrepo/blob/main/OrnekReadMe.md) inceleyebilirsiniz.**
 - Markdown dosyanızın içine projemizin bir **resmini** koyun.
